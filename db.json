@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Complete Homework",
+      "day": "Mar 11",
+      "reminder": true
+    },
+    {
+      "text": "gym",
+      "day": "14 may",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "shop",
+      "day": "15 may",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Assignment",
+      "day": "May 12",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
